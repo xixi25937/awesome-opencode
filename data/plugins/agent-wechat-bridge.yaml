@@ -1,0 +1,4 @@
+name: Agent WeChat Bridge
+repo: https://github.com/xixi25937/agent-wechat-bridge
+tagline: Watch and drive OpenCode (and Codex) sessions from WeChat: live replies, approvals, questions, images
+description: Pushes each session's replies, errors, permission requests and questions to your WeChat, and lets you answer from your phone - send messages, approve or reject, answer multi-question forms, switch models, stop, undo, start new sessions in any folder, and send images both ways. Works with the OpenCode desktop app and terminal, plus Codex desktop and CLI via hooks.
